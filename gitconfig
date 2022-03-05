@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dan.y1@outlook.com
+	name = daisyyu
